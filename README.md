@@ -11,15 +11,15 @@
 
 ![TULKON Demo](https://raw.githubusercontent.com/MikeTheEngr/TULKON-V1/main/preview.gif)
 
-> *Young people don't just travel to see places — they travel to change their lives. TULKON is the first app built around that truth.*
+> *Young people don't just travel to see places, they travel to change their lives. TULKON is the first app built around that truth.*
 
 ---
 
 ## What is TULKON?
 
-TULKON is an AI-powered travel companion platform built for the generation that travels with purpose — not just tourists, but people chasing scholarships, careers, cultural exchange, and life-changing experiences across borders.
+TULKON is an AI-powered travel companion platform built for the generation that travels with purpose, not just tourists, but people chasing scholarships, careers, cultural exchange, and life-changing experiences across borders.
 
-At its core is a deeply personal AI travel buddy that knows who you are, remembers your journey, searches the web in real time, and surfaces opportunities — visa pathways, scholarships, job markets — specific to your nationality and destination. Built around a social explorer network where travelers connect, level up through gamification, and eventually communicate across language barriers in real time.
+At its core is a deeply personal AI travel buddy that knows who you are, remembers your journey, searches the web in real time, and surfaces opportunities, visa pathways, scholarships, job markets, specific to your nationality and destination. Built around a social explorer network where travelers connect, level up through gamification, and eventually communicate across language barriers in real time.
 
 ---
 
@@ -95,8 +95,16 @@ Verification methods: flight purchase through TULKON (automatic), GPS location (
 ---
 
 ## About
+## Status
+
+TULKON is an active work in progress — a living product being built in public.
+
+Core features are functional and deployed, but the platform is still growing. Features currently in active development include real-time social chat with auto-translation, Stories, TIMOJI avatar builder, the Opportunity Finder (scholarships and work programs by destination), and a full migration from Render to GCP Cloud Run for production-grade reliability.
+
+This is not a finished product. It is a vision being built one commit at a time.
 
 Built by **MikeTheEngr** ([@MikeTheEngrr](https://x.com/MikeTheEngrr)) — AI Engineer & Full Stack Developer.
+
 
 ---
 
