@@ -34,7 +34,7 @@ Every conversation is personalised with the user's nationality, home country, la
 - Never generic. Every response is written for that exact traveler.
 
 **Layer 2 — Real-time Intelligence**
-Powered by Tavily web search, TULKON detects when a query needs current data — visa fees, scholarship deadlines, job openings, travel advisories — and fetches live results before responding.
+Powered by Tavily web search, TULKON detects when a query needs current data, visa fees, scholarship deadlines, job openings, travel advisories — and fetches live results before responding.
 
 - Trigger keywords: visa, scholarship, deadline, cost, fee, hiring, requirement, current, latest
 - Search queries are augmented with the user's nationality for maximum relevance
@@ -44,7 +44,7 @@ After every conversation, an LLM extraction pipeline reads the exchange and save
 
 - TULKON remembers you asked about Germany last week
 - TULKON remembers you mentioned you're a software engineer
-- No prompting needed — it just knows
+- No prompting needed, it just knows
 
 **Layer 4 — Proactive Intelligence** *(in development)*
 Notices patterns across conversations and volunteers relevant information without being asked.
@@ -94,7 +94,6 @@ Verification methods: flight purchase through TULKON (automatic), GPS location (
 
 ---
 
-## About
 ## Status
 
 TULKON is an active work in progress — a living product being built in public.
