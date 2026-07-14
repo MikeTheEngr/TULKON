@@ -74,7 +74,7 @@ Core features are functional and deployed, but the platform is still growing. Fe
 
 This is not a finished product. It is a vision being built one commit at a time.
 
-Built by **MikeTheEngr** ([@MikeTheEngrr](https://x.com/MikeTheEngrr)) — AI Engineer & Full Stack Developer.
+Built by **MikeTheEngr** ([@MikeTheEngrr](https://x.com/MikeTheEngrr)),  AI Engineer & Full Stack Developer.
 
 
 ---
