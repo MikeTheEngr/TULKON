@@ -23,34 +23,6 @@ At its core is a deeply personal AI travel buddy that knows who you are, remembe
 
 ---
 
-## Core Intelligence
-
-### AI Travel Buddy — 4-Layer Architecture
-
-**Layer 1 — Identity**
-Every conversation is personalised with the user's nationality, home country, languages, and travel goals. TULKON knows who it's talking to and frames every response around that specific person.
-
-- Nigerian asking about Germany → visa requirements for Nigerian passport holders, DAAD scholarships, job seeker visa pathways
-- Never generic. Every response is written for that exact traveler.
-
-**Layer 2 — Real-time Intelligence**
-Powered by Tavily web search, TULKON detects when a query needs current data, visa fees, scholarship deadlines, job openings, travel advisories — and fetches live results before responding.
-
-- Trigger keywords: visa, scholarship, deadline, cost, fee, hiring, requirement, current, latest
-- Search queries are augmented with the user's nationality for maximum relevance
-
-**Layer 3 — Persistent Memory**
-After every conversation, an LLM extraction pipeline reads the exchange and saves memorable facts to Supabase — destinations researched, career goals mentioned, travel plans discussed. On the next session, those memories are silently injected into the system prompt.
-
-- TULKON remembers you asked about Germany last week
-- TULKON remembers you mentioned you're a software engineer
-- No prompting needed, it just knows
-
-**Layer 4 — Proactive Intelligence** *(in development)*
-Notices patterns across conversations and volunteers relevant information without being asked.
-
----
-
 ## Live Demo
 
 🔗 **[TULKON](https://tulkon-v1.vercel.app/)**
