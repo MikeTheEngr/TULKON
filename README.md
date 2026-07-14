@@ -9,7 +9,7 @@
 
 ### Travel Understanding, Knowledge Oriented Network
 
-![TULKON Demo](https://raw.githubusercontent.com/MikeTheEngr/TULKON-V1/main/preview.gif)
+![TULKON Demo](https://raw.githubusercontent.com/MikeTheEngr/TULKON/main/preview.gif)
 
 > *Young people don't just travel to see places, they travel to change their lives. TULKON is the first app built around that truth.*
 
@@ -46,7 +46,7 @@ At its core is a deeply personal AI travel buddy that knows who you are, remembe
 
 ## Gamification System
 
-### Tier 1 — Engagement Badges
+### Tier 1 : Engagement Badges
 Earned through activity on TULKON. Progress bar visible to the user.
 
 | Badge | Points Required |
@@ -59,7 +59,7 @@ Earned through activity on TULKON. Progress bar visible to the user.
 
 Points are awarded for: chat messages, trips logged, translations made, friends added, profile completed, flight purchases.
 
-### Tier 2 — PLATINUM 🏅
+### Tier 2 : PLATINUM 🏅
 Exclusive badge earned only by verified international travel. Shows a counter of unique foreign countries visited.
 
 Verification methods: flight purchase through TULKON (automatic), GPS location (automatic), boarding pass upload, passport stamp upload.
@@ -68,7 +68,7 @@ Verification methods: flight purchase through TULKON (automatic), GPS location (
 
 ## Status
 
-TULKON is an active work in progress — a living product being built in public.
+TULKON is an active work in progress, a living product being built in public.
 
 Core features are functional and deployed, but the platform is still growing. Features currently in active development include real-time social chat with auto-translation, Stories, TIMOJI avatar builder, the Opportunity Finder (scholarships and work programs by destination), and a full migration from Render to GCP Cloud Run for production-grade reliability.
 
